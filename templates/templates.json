@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Command Robot",
+        "description": "Command-based, with explanatory comments and example code.",
+        "tags": [
+            "Command"
+        ],
+        "foldername": "commandbased",
+        "gradlebase": "java",
+        "mainclass": "Main",
+        "commandversion": 2
+    }
+]
