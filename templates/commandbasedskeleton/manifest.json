@@ -1,0 +1,15 @@
+{
+    "files": [
+        ".vscode/launch.json",
+        ".vscode/settings.json",
+        ".wpilib/wpilib_preferences.json",
+        "gradle/wrapper/gradle-wrapper.jar",
+        "gradle/wrapper/gradle-wrapper.properties",
+        ".gitignore",
+        "WPILib-License.md",
+        "build.gradle",
+        "gradlew",
+        "gradlew.bat",
+        "settings.gradle"
+    ]
+}
