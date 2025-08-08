@@ -1,0 +1,18 @@
+[
+    {
+        "name": "REVLib",
+        "description": "Vendor library for REV Robotics motor controllers, sensors, and other hardware.",
+        "json_url": "https://software-metadata.revrobotics.com/REVLib-2025.json"
+    },
+    {
+        "name": "Phoenix 5",
+        "description": "Vendor library for CTRE's Talon SRX, Victor SPX, and older devices.",
+        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json"
+    },
+    {
+        "name": "Phoenix 6",
+        "description": "Vendor library for CTRE's Talon FX, Victor SPX Pro, and modern CANivore-based devices.",
+        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json"
+    }
+]
+
