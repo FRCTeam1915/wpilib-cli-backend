@@ -6,7 +6,7 @@
     },
     {
         "name": "libgrapplefrc",
-        "description", "For interacting with Grapple devices, specifically with LaserCAN sensor",
+        "description": "For interacting with Grapple devices, specifically with LaserCAN sensor",
         "json_url": "https://storage.googleapis.com/grapple-frc-maven/libgrapplefrc2025.json"
     },
     {
