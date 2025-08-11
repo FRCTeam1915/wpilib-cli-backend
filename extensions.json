@@ -5,7 +5,7 @@
         "json_url": "https://doglog.dev/vendordep.json"
     },
     {
-        "name": "libgrapplefrc",
+        "name": "Grapple",
         "description": "For interacting with Grapple devices, specifically with LaserCAN sensor",
         "json_url": "https://storage.googleapis.com/grapple-frc-maven/libgrapplefrc2025.json"
     },
@@ -23,6 +23,11 @@
         "name": "REVLib",
         "description": "For programming REV Robotics motor controllers, sensors, and other hardware like the SPARK MAX, NEO motors, and the Pneumatic Hub",
         "json_url": "https://software-metadata.revrobotics.com/REVLib-2025.json"
+    },
+    {
+        "name": "Yet Another Generic Swerve Library (YAGSL)",
+        "description": "For simplifying the implementation of swerve drive systems",
+        "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json"
     }
 ]
 
