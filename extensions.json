@@ -30,6 +30,11 @@
         "json_url": "https://software-metadata.revrobotics.com/REVLib-2025.json"
     },
     {
+        "name": "ThriftyLib",
+        "description": "For Thrifty Nova motor controller, brushless motor control and both USB and CAN Bus communication",
+        "json_url": "https://docs.home.thethriftybot.com/ThriftyLib.json"
+    },
+    {
         "name": "Yet Another Generic Swerve Library (YAGSL)",
         "description": "For simplifying the implementation of swerve drive systems",
         "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json"
