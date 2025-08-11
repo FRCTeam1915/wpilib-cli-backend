@@ -20,6 +20,11 @@
         "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json"
     },
     {
+        "name": "PhotonLib",
+        "description": "Easier to retrieve vision data",
+        "json_url": "https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json"
+    },
+    {
         "name": "REVLib",
         "description": "For programming REV Robotics motor controllers, sensors, and other hardware like the SPARK MAX, NEO motors, and the Pneumatic Hub",
         "json_url": "https://software-metadata.revrobotics.com/REVLib-2025.json"
