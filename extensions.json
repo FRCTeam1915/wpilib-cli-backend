@@ -5,6 +5,11 @@
         "json_url": "https://doglog.dev/vendordep.json"
     },
     {
+        "name": "libgrapplefrc",
+        "description", "For interacting with Grapple devices, specifically with LaserCAN sensor",
+        "json_url": "https://storage.googleapis.com/grapple-frc-maven/libgrapplefrc2025.json"
+    },
+    {
         "name": "Phoenix 6",
         "description": "For controlling CTRE hardware in FRC, including motor controllers like the Talon FX (Falcon 500), sensors, and CAN devices",
         "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json"
