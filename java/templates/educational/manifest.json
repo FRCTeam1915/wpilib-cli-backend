@@ -1,0 +1,21 @@
+{
+    "build_files": [
+        ".vscode/launch.json",
+        ".vscode/settings.json",
+        ".wpilib/wpilib_preferences.json",
+        "gradle/wrapper/gradle-wrapper.jar",
+        "gradle/wrapper/gradle-wrapper.properties",
+        "vendordeps/WPILibNewCommands.json",
+        ".gitignore",
+        "WPILib-License.md",
+        "build.gradle",
+        "gradlew",
+        "gradlew.bat",
+        "settings.gradle"
+    ],
+    "code_files": [
+        "Main.java",
+        "Robot.java",
+        "EducationalRobot.java"
+    ]
+}
