@@ -10,6 +10,11 @@
         "json_url": "https://storage.googleapis.com/grapple-frc-maven/libgrapplefrc2025.json"
     },
     {
+        "name": "MapleSim",
+        "description": "Provides realistic approximations of physical systems",
+        "json_url": "https://shenzhen-robotics-alliance.github.io/maple-sim/vendordep/maple-sim.json"
+    },
+    {
         "name": "Phoenix 6",
         "description": "For controlling CTRE hardware in FRC, including motor controllers like the Talon FX (Falcon 500), sensors, and CAN devices",
         "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json"
@@ -26,9 +31,19 @@
         "json_url": "https://maven.photonvision.org/repository/internal/org/photonvision/photonlib-json/1.0/photonlib-json-1.0.json"
     },
     {
+        "name": "ReduxLib",
+        "description": "For Redux Robotics hardware devices",
+        "json_url": "https://frcsdk.reduxrobotics.com/ReduxLib_2025.json"
+    },
+    {
         "name": "REVLib",
         "description": "For programming REV Robotics motor controllers, sensors, and other hardware like the SPARK MAX, NEO motors, and the Pneumatic Hub",
         "json_url": "https://software-metadata.revrobotics.com/REVLib-2025.json"
+    },
+    {
+        "name": "Studica",
+        "description": "For Studica's specific hardware components, such as the VMX-pi or navX-MXP",
+        "json_url": "https://dev.studica.com/releases/2025/Studica-2025.0.1.json"
     },
     {
         "name": "ThriftyLib",
@@ -38,7 +53,7 @@
     {
         "name": "Yet Another Generic Swerve Library (YAGSL)",
         "description": "For simplifying the implementation of swerve drive systems",
-        "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json"
+        "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json",
+        "dependencies": ["ReduxLib", "REVLib", "Pheonix 5", "Pheonix 6", "Studica", "ThriftyLib", "MapleSim"]
     }
-]
 
