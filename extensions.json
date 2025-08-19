@@ -17,7 +17,8 @@
     {
         "name": "Phoenix 5",
         "description": "For controlling devices like the Talon SRX, Victor SPX, and older CAN-based sensors",
-        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json"
+        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json",
+        "dependencies": ["Phoenix 6"]
     },
     {
         "name": "PhotonLib",
