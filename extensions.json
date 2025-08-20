@@ -43,7 +43,7 @@
     {
         "name": "Studica",
         "description": "For Studica's specific hardware components, such as the VMX-pi or navX-MXP",
-        "json_url": "https://dev.studica.com/releases/2025/Studica-2025.0.1.json"
+        "json_url": "https://raw.githubusercontent.com/FRCTeam1915/wpilib-cli-backend/refs/heads/extensions/extensions/Studica-2025.0.1.json"
     },
     {
         "name": "ThriftyLib",
