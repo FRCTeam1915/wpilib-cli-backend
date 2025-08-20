@@ -15,15 +15,15 @@
         "json_url": "https://shenzhen-robotics-alliance.github.io/maple-sim/vendordep/maple-sim.json"
     },
     {
-        "name": "Phoenix 6",
-        "description": "For controlling CTRE hardware in FRC, including motor controllers like the Talon FX (Falcon 500), sensors, and CAN devices",
-        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json"
-    },
-    {
         "name": "Phoenix 5",
         "description": "For controlling devices like the Talon SRX, Victor SPX, and older CAN-based sensors",
         "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json",
         "dependencies": ["Phoenix 6"]
+    },
+    {
+        "name": "Phoenix 6",
+        "description": "For controlling CTRE hardware in FRC, including motor controllers like the Talon FX (Falcon 500), sensors, and CAN devices",
+        "json_url": "https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json"
     },
     {
         "name": "PhotonLib",
