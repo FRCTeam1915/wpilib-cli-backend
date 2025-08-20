@@ -56,4 +56,4 @@
         "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json",
         "dependencies": ["ReduxLib", "REVLib", "Pheonix 5", "Pheonix 6", "Studica", "ThriftyLib", "MapleSim"]
     }
-
+]
