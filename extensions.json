@@ -54,6 +54,6 @@
         "name": "Yet Another Generic Swerve Library (YAGSL)",
         "description": "For simplifying the implementation of swerve drive systems",
         "json_url": "https://broncbotz.org/YAGSL-Lib/yagsl/yagsl.json",
-        "dependencies": ["ReduxLib", "REVLib", "Pheonix 5", "Pheonix 6", "Studica", "ThriftyLib", "MapleSim"]
+        "dependencies": ["ReduxLib", "REVLib", "Phoenix 5", "Phoenix 6", "Studica", "ThriftyLib", "MapleSim"]
     }
 ]
